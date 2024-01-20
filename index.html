@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gender Prediction</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/e26316daf2.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Gender Prediction</h1>
+        <h2 style="color: black;">By Name</h2>
+        <div class="row">
+            <input type="text" id="nameinput" placeholder="Enter your name">
+            <button type="button" id="PredictBtn" onclick="Predict()">Predict</button>
+        </div>
+        <div class="card" id="myCard">
+            <h3 id="name">Lakshya</h3>
+            <!-- <i class="fa-solid fa-venus"></i> -->
+            <div class="gender" id="genderdiv"><h1 id="gender">Male</h1><i class="fa-solid fa-3x fa-mars"></i></div>
+            
+            <p id="probability">Probability: 1.0</p>
+
+        </div>
+    </div>
+    
+
+
+    <script src="script.js" type="text/javascript"></script>
+</body>
+</html>

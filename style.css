@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+    /* background: linear-gradient(135deg, #363636, #000000); */
+    /* background: linear-gradient(135deg, #1a1a1a, #333333); */
+    background: linear-gradient(45deg, #d8c4ff, #a084ff);
+    /* color: #333333; */
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+    position: relative;
+}
+
+.container{
+    position: absolute;
+    top: 16%;
+    left: 11%;
+}
+
+.container h1{
+    color: #fff;
+    font-size: 45px;
+}
+
+.container h2{
+    width: 190px;
+    font-size: 40px;
+    border-bottom: solid black 4px;
+    margin-bottom: 30px;
+}
+
+.container .row{
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.container .row input{
+    flex: 1;
+    border: 0;
+    /* outline: 0; */
+    padding: 12px 15px;
+    border-radius: 5px;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+}
+
+.container .row button{
+    border: 0;
+    outline: 0;
+    padding: 12px 15px;
+    background-color: black;
+    color: #fff;
+    border-radius: 6px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+}
+
+.container .row button:hover{
+    transition: transform 0.5s;
+    transform: scale(1.1);
+}
+
+.container .card{
+    background-color: black;
+    display: flex;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 12px 0;
+    border: 0;
+    outline: 0;
+    border-radius: 10px;
+}
+
+.container .card h3{
+    font-size: 21px;
+    margin-bottom: 10px;
+}
+
+.container .card .gender{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .card .gender h1{
+    margin-right: 10px;
+}
+
+.container .card p{
+    margin-top: 10px;
+    font-size: 21px;
+}

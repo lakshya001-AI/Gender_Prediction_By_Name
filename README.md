@@ -151,6 +151,23 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to customize this README to suit your project's specific details and requirements.
 
+## Acknowledgments
+
+- Special thanks to the creators of the [Genderize API](https://api.genderize.io/?name=${name}) for providing the name-to-gender prediction service.
+
+Feel free to customize this README to suit your project's specific details and requirements.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- Special thanks to the creators of the [Genderize API](https://api.genderize.io/?name=${name}) for providing the name-to-gender prediction service.
+
+Feel free to customize this README to suit your project's specific details and requirements.
+
+
 
 
 

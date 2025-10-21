@@ -71,7 +71,15 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to customize this README to suit your project's specific details and requirements.
 
-## License
+## License# Gender Prediction By Name
+
+
+
+## Overview
+
+Gender Prediction By Name is a simple web application that predicts the likely gender associated with a given name using the [Genderize API](https://api.genderize.io/?name=${name}). This project is implemented using HTML, CSS, and JavaScript.
+
+## Features
 
 This project is licensed under the [MIT License](LICENSE).
 
@@ -166,6 +174,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Special thanks to the creators of the [Genderize API](https://api.genderize.io/?name=${name}) for providing the name-to-gender prediction service.
 
 Feel free to customize this README to suit your project's specific details and requirements.
+
 
 
 

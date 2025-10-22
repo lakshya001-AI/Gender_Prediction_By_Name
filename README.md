@@ -176,6 +176,23 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to customize this README to suit your project's specific details and requirements.
 
 
+- **Name-to-Gender Prediction:** Enter a name into the web application, and the Genderize API will be queried to provide the likely gender associated with that name.
+
+- **User-Friendly Interface:** The project provides a clean and intuitive user interface, making it easy for users to interact with and obtain gender predictions.
+
+## Getting Started
+
+To use the Gender Prediction By Name project, follow these steps:
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/Gender_Prediction_By_Name.git
+```
+
+
+
+
 
 
 

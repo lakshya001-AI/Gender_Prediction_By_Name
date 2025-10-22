@@ -57,7 +57,44 @@ git clone https://github.com/your-username/Gender_Prediction_By_Name.git
 2. Enter a name in the provided input field.
 
 3. Click the "Predict Gender" button.
+- **User-Friendly Interface:** The project provides a clean and intuitive user interface, making it easy for users to interact with and obtain gender predictions.
 
+## Getting Started
+
+To use the Gender Prediction By Name project, follow these steps:
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/Gender_Prediction_By_Name.git
+```
+
+2. Open the project folder in your preferred code editor.
+
+3. Open the `index.html` file in a web browser to run the application.
+
+## Usage
+
+1. Open the web application in your browser.
+
+2. Enter a name in the provided input field.
+
+3. Click the "Predict Gender" button.
+
+4. The predicted gender will be displayed on the screen.
+
+## Dependencies
+
+- [Genderize API](https://api.genderize.io/?name=${name}): This project relies on the Genderize API to obtain gender predictions based on names.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bug fix:
+
+```bash
 4. The predicted gender will be displayed on the screen.
 
 ## Dependencies
@@ -246,6 +283,7 @@ git clone https://github.com/your-username/Gender_Prediction_By_Name.git
 2. Enter a name in the provided input field.
 
 3. Click the "Predict Gender" button.
+
 
 
 

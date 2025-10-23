@@ -29,6 +29,24 @@ Gender Prediction By Name is a simple web application that predicts the likely g
 
 - **Name-to-Gender Prediction:** Enter a name into the web application, and the Genderize API will be queried to provide the likely gender associated with that name.
 
+- ## Features
+
+- **Name-to-Gender Predi
+
+- **User-Friendly Interface:** The project provides a clean and intuitive user interface, making it easy for users to interact with and obtain gender predictions.
+
+## Getting Started
+
+
+## Overview
+
+Gender Prediction By Name is a simple web application that predicts the likely gender associated with a given name using the [Genderize API](https://api.genderize.io/?name=${name}). This project is implemented using HTML, CSS, and JavaScript.
+
+## Features
+
+- **Name-to-Gender Prediction:** Enter a name into the web application, and the Genderize API will be queried to provide the likely gender associated with that name.
+
+
 - **User-Friendly Interface:** The project provides a clean and intuitive user interface, making it easy for users to interact with and obtain gender predictions.
 
 ## Getting Started
@@ -372,6 +390,7 @@ git clone https://github.com/your-username/Gender_Prediction_By_Name.git
 2. Enter a name in the provided input field.
 
 3. Click the "Predict Gender" button.
+
 
 
 

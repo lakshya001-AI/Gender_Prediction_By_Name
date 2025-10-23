@@ -422,6 +422,28 @@ git clone https://github.com/your-username/Gender_Prediction_By_Name.git
 
 3. Click the "Predict Gender" button.
 
+4. ## Usage
+
+1. Open the web application in your browser.
+
+2. Enter a name in the provided input field.
+
+3. Click the "Predict Gender" button.
+
+2. Open the project folder in your preferred code editor.
+
+3. Open the `index.html` file in a web browser to run the application.
+
+## Usage
+
+1. Open the web application in your browser.
+
+2. Enter a name in the provided input field.
+
+3. Click the "Predict Gender" button.
+
+
+
 
 
 
